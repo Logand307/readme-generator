@@ -1,29 +1,30 @@
 
 # Project Title
-w
+logan
 # Description
-w
+l
 # Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
-* [Questions](#contact-information)
+* [Questions](#questions)
     
 # Installation
-w
+l
 # Usage
-w
+l
 # License 
 MIT
 * Please contact me if another license needs to be added that is not available within this list. 
 # Contributing 
-w
+l
 # Tests
-w
+l
 # Questions
 * GitHub Username: 
-w
+Logand307
+[Link to Github Profile](https://github.com/Logand307)
 * Contact Email: 
-w
+Ldavis96@live.com

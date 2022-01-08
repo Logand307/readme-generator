@@ -24,7 +24,7 @@ ${data.description}
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
-* [Questions](#contact-information)
+* [Questions](#questions)
     
 # Installation
 ${data.installation}
@@ -40,6 +40,7 @@ ${data.tests}
 # Questions
 * GitHub Username: 
 ${data.username}
+[Link to Github Profile](https://github.com/${data.username})
 * Contact Email: 
 ${data.email}
 `;
