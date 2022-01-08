@@ -11,8 +11,7 @@
 // function renderLicenseSection(license) {}
 
 // // TODO: Create a function to generate markdown for README
-//function to generate the markdown here
-
+//***This function uses template literals to take the user input from index.js and generate the markdown that includes the readme file. ***/
 function generateMarkdown(data) {
     return `
 # Project Title
