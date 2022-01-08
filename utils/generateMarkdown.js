@@ -19,12 +19,12 @@ ${data.title}
 # Description
 ${data.description}
 # Table of Contents 
-* [Installation](#-Installation)
-* [Usage](#-Usage)
-* [License](#-Installation)
-* [Contributing](#-Contributing)
-* [Tests](#-Tests)
-* [Questions](#-Contact-Information)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#contact-information)
     
 # Installation
 ${data.installation}
@@ -37,7 +37,7 @@ ${data.license}
 ${data.contribution}
 # Tests
 ${data.tests}
-# Contact Information 
+# Questions
 * GitHub Username: 
 ${data.username}
 * Contact Email: 

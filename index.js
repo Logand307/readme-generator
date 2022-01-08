@@ -5,7 +5,7 @@ const inquirer = require('inquirer'); //installed via npm inquirer - this allows
 const fs = require('fs'); //this allows for the writeToFile function at the bottom of index.js, without this that function would not work
 const generateMarkdown = require("./utils/generateMarkdown"); //this required our generateMarkdown that uses template literals to display the data below on our generated file.
 
-// TODO: Create an array of questions for user input
+// TODO: Create an array of questions for user input using inquirier
 const questions = [
     {
       type: 'input',
