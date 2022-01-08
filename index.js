@@ -74,10 +74,6 @@ const questions = [
       name: 'license',
       message: 'Please choose a license for your application.',
       choices: [
-        "Apache",
-        "Academic",
-        "GNU",
-        "ISC",
         "MIT",
         "Mozilla",
         "Open"
@@ -142,7 +138,7 @@ const questions = [
 
 
 // // TODO: Create a function to write README file
-// function to generate the ReadMe here
+//*** This function uses file system to write the data, take input from generateMarkdown file and create a ReadMe file within the "generated" folder ***/
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, generateMarkdown(data), function (err) {
       if (err) {
@@ -152,6 +148,7 @@ function writeToFile(fileName, data) {
 }
 
 // // TODO: Create a function to initialize app
+//*** This function will allow the questions to be presented to the user ***/
 function init() {
   inquirer.prompt(questions).then((data) => {
       writeToFile("./generated/README.md", data);

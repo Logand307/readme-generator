@@ -14,9 +14,9 @@ l
 # Installation
 l
 # Usage
-target
+l
 # License 
-Apache
+MIT
 * Please contact me if another license needs to be added that is not available within this list. 
 # Contributing 
 undefined
