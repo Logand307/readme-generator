@@ -1,6 +1,9 @@
-const inquirer = require('inquirer');
-const fs = require('fs');
-const generateMarkdown = require("./utils/generateMarkdown");
+
+// TODO: Include packages needed for this application
+
+const inquirer = require('inquirer'); //installed via npm inquirer - this allows for the question input below.
+const fs = require('fs'); //this allows for the writeToFile function at the bottom of index.js, without this that function would not work
+const generateMarkdown = require("./utils/generateMarkdown"); //this required our generateMarkdown that uses template literals to display the data below on our generated file.
 
 // TODO: Create an array of questions for user input
 const questions = [
