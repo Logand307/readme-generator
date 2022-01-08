@@ -35,7 +35,7 @@ ${data.usage}
 ${data.license}
 * Please contact me if another license needs to be added that is not available within this list. 
 # Contributing 
-${data.contributing}
+${data.contribution}
 # Tests
 ${data.tests}
 # Contact Information 

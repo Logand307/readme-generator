@@ -2,7 +2,7 @@
 # Project Title
 l
 # Description
-l
+'l
 # Table of Contents 
 * [Installation](#-Installation)
 * [Usage](#-Usage)
@@ -19,7 +19,7 @@ l
 MIT
 * Please contact me if another license needs to be added that is not available within this list. 
 # Contributing 
-undefined
+l
 # Tests
 l
 # Contact Information 
