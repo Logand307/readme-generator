@@ -79,7 +79,8 @@ const questions = [
       choices: [
         "MIT",
         "Mozilla",
-        "Open"
+        "Open",
+        "None"
     ]
     },
     {

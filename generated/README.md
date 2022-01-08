@@ -1,8 +1,8 @@
 
 # Project Title
-logan
+cat
 # Description
-l
+cat
 # Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -12,19 +12,20 @@ l
 * [Questions](#questions)
     
 # Installation
-l
+cat
 # Usage
-l
+cat
 # License 
-MIT
+Mozilla
+[![Github license](https://img.shields.io/badge/license-Mozilla-blue.svg)](https://github.com/Logand307/cat)
 * Please contact me if another license needs to be added that is not available within this list. 
 # Contributing 
-l
+cat
 # Tests
-l
+no
 # Questions
 * GitHub Username: 
 Logand307
 [Link to Github Profile](https://github.com/Logand307)
 * Contact Email: 
-Ldavis96@live.com
+ldavis96@live.com
